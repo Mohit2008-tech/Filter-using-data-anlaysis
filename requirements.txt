@@ -101,7 +101,6 @@ ruamel.yaml.clib==0.2.6
 scikit-image==0.18.3
 Send2Trash==1.5.0
 simplegeneric==0.8.1
-sip==4.19.13
 six==1.15.0
 Sphinx==4.2.0
 statsmodels==0.12.2
