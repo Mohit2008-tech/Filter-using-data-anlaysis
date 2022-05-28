@@ -115,7 +115,7 @@ six==1.15.0
 Sphinx==4.2.0
 statsmodels==0.12.2
 tables==3.6.1
-TBB==0.2
+#TBB==0.2
 termcolor==1.1.0
 terminado==0.9.4
 testpath==0.4.4
