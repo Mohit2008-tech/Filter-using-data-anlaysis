@@ -89,7 +89,7 @@ pyct==0.4.8
 pycurl==7.44.1
 Pygments==2.8.0
 pyls-spyder==0.4.0
-pyodbc===4.0.0-unsupported
+#pyodbc===4.0.0-unsupported
 pyparsing==2.4.7
 pyreadline==2.1
 pyrsistent==0.17.3
